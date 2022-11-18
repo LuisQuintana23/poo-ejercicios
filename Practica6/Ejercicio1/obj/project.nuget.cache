@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s06vqnk5rELwGNbR5bm+GpLLeLugMxrR62RC6fG2vIQCSked5qmPL+u3fSTwbPKnD9uLesbQLROSdCrBKnEiUQ==",
+  "success": true,
+  "projectFilePath": "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica6/Ejercicio1/Ejercicio1.csproj",
+  "expectedPackageFiles": [
+    "/home/babas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

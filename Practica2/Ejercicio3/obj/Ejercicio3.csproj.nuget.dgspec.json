@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica2/Ejercicio3/Ejercicio3.csproj": {}
+  },
+  "projects": {
+    "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica2/Ejercicio3/Ejercicio3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica2/Ejercicio3/Ejercicio3.csproj",
+        "projectName": "Ejercicio3",
+        "projectPath": "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica2/Ejercicio3/Ejercicio3.csproj",
+        "packagesPath": "/home/babas/.nuget/packages/",
+        "outputPath": "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica2/Ejercicio3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/babas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.10, 6.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

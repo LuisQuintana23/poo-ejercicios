@@ -1,0 +1,15 @@
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/bin/Debug/net6.0/Ejercicio1
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/bin/Debug/net6.0/Ejercicio1.deps.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/bin/Debug/net6.0/Ejercicio1.runtimeconfig.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/bin/Debug/net6.0/Ejercicio1.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/bin/Debug/net6.0/ref/Ejercicio1.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/bin/Debug/net6.0/Ejercicio1.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.csproj.AssemblyReference.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.AssemblyInfo.cs
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/ref/Ejercicio1.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica3/Ejercicio1/obj/Debug/net6.0/Ejercicio1.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/Ejercicio3
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/Ejercicio3.deps.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/Ejercicio3.runtimeconfig.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/Ejercicio3.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/ref/Ejercicio3.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/Ejercicio3.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.AssemblyReference.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfoInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfo.cs
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.CopyComplete
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/ref/Ejercicio3.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica5/Ejercicio3/obj/Debug/net6.0/Ejercicio3.genruntimeconfig.cache

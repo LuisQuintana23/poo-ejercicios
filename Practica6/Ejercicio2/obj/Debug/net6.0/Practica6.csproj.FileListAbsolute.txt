@@ -1,0 +1,15 @@
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/bin/Debug/net6.0/Practica6
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/bin/Debug/net6.0/Practica6.deps.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/bin/Debug/net6.0/Practica6.runtimeconfig.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/bin/Debug/net6.0/Practica6.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/bin/Debug/net6.0/ref/Practica6.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/bin/Debug/net6.0/Practica6.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.csproj.AssemblyReference.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.GeneratedMSBuildEditorConfig.editorconfig
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.AssemblyInfoInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.AssemblyInfo.cs
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.csproj.CoreCompileInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/ref/Practica6.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_6/Practica6/Practica6/obj/Debug/net6.0/Practica6.genruntimeconfig.cache

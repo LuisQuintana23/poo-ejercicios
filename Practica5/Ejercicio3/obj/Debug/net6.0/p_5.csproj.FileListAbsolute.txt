@@ -1,0 +1,17 @@
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/p_5
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/p_5.deps.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/p_5.runtimeconfig.json
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/p_5.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/ref/p_5.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/p_5.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.csproj.AssemblyReference.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.AssemblyInfoInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.AssemblyInfo.cs
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.csproj.CoreCompileInputs.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/ref/p_5.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.pdb
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.genruntimeconfig.cache
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/babas/Documentos/Educacion/Uni/3_SEM/POO/Practicas/p_5/obj/Debug/net6.0/p_5.csproj.CopyComplete

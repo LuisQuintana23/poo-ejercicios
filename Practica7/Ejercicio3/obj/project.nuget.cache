@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8cogO/Fh/yEE3PZUdKwlO/LMa/vsk+q8OgLZmICGLGJfVJQu/lKFMl/GrXdyR40ULRWm04brKmmdlfi3dSqFWA==",
+  "dgSpecHash": "Bs6U65iw1IUMcmOOsthg71SEttMDf0Ujie1Nic2sX3cZQqvpbDQy4Zu4DSk2m0McCJdhGjuUi+CKAoKU0abbNQ==",
   "success": true,
-  "projectFilePath": "/home/babas/Documentos/Educacion/Uni/3_SEM/POO/poo-ejercicios/Practica7/Ejercicio3/Ejercicio3.csproj",
-  "expectedPackageFiles": [
-    "/home/babas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\luisa\\Documents\\Educacion\\Uni\\3_SEM\\POO\\poo-ejercicios\\Practica7\\Ejercicio3\\Practica7.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

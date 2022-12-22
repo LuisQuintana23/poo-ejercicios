@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejercicio4.Objetos.Arma">
+    <Position X="1.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAghAACAAAAAgAGAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Objetos\Arma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Objetos.Escudo">
+    <Position X="6" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABAAAAAAAgAiAAAAIAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Objetos\Escudo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Objetos.Inventario">
+    <Position X="8.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAgAAACAAAgACBAAAACAAAAAgAAAAIAAAAAAAAAIA=</HashCode>
+      <FileName>Objetos\Inventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Objetos.Objeto">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAIAEBAEAgACRAAAAgAAAAAAAEAAAAIAAAACAEBA=</HashCode>
+      <FileName>Objetos\Objeto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Objetos.Pocion">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objetos\Pocion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Personajes.Enemigo">
+    <Position X="14.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personajes\Enemigo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Personajes.Heroe">
+    <Position X="18.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAAAAAAAAAAAAAAABAAIABAEAAAEAAAABAAIAAA=</HashCode>
+      <FileName>Personajes\Heroe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Personajes.Personaje">
+    <Position X="16" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAACAAAgAiEAgAABIQIAACECgAAAAIAA=</HashCode>
+      <FileName>Personajes\Personaje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Entidades">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAkAAAQAAOEAAAAAAAAAIACCEAIAAAABAAAAQAQAEA=</HashCode>
+      <FileName>Entidades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA4AAAAAACgAAAAAAAAAAIAAAABAAACAAEAAAAAARMA=</HashCode>
+      <FileName>ProgressBar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

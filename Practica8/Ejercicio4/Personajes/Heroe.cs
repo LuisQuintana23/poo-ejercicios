@@ -14,19 +14,19 @@ namespace Ejercicio4.Personajes
         private Inventario inventario;
 
         public Heroe(string nombre,
-                     double vida, 
-                     int nivel, 
-                     double ataque, 
-                     double defensa, 
-                     Arma? arma, 
-                     Escudo? escudo) : base(nombre, vida, nivel, ataque, defensa, arma, escudo)
+            double vida, 
+            int nivel, 
+            double ataque, 
+            double defensa, 
+            Arma? arma, 
+            Escudo? escudo) : base(nombre, vida, nivel, ataque, defensa, arma, escudo)
         {
             this.puntosMejora = 3;
             this.inventario = new Inventario("Mochila básica",
-                                             1,
-                                             "Comun",
-                                             double.MaxValue,
-                                             10); // inventario de 10 objetos
+                1,
+                "Comun",
+                double.MaxValue,
+                10); // inventario de 10 objetos
         }
 
         public void Pelear(Enemigo enemigo, bool? loop, int? turno)
@@ -43,7 +43,7 @@ namespace Ejercicio4.Personajes
             if (turno == 0) { // turno del jugador
                 
                 damage = this.Atacar(enemigo);
-                enemigo.Vida -= damage;
+                enemigo.Vida = BajarVida(enemigo.Vida, damage);
 
                 // cuando la vida del enemigo llega a 0 se acaba la batalla
                 if (enemigo.Vida <= 0)
@@ -65,7 +65,7 @@ namespace Ejercicio4.Personajes
             else
             {
                 damage = enemigo.Atacar(this);
-                this.Vida += damage;
+                this.Vida = BajarVida(this.Vida, damage);
 
                 if (this.Vida <= 0)
                 {
@@ -148,14 +148,14 @@ namespace Ejercicio4.Personajes
             {
                 case 1: //luchador
                     heroe = new Heroe(
-                            nombre,
-                            80,
-                            1,
-                            35,
-                            35,
-                            null,
-                            null
-                        );
+                        nombre,
+                        80,
+                        1,
+                        35,
+                        35,
+                        null,
+                        null
+                    );
 
                     Console.WriteLine($"\nSe ha creado un luchador con el nombre de {nombre}\n");
 
@@ -163,44 +163,44 @@ namespace Ejercicio4.Personajes
 
                 case 2: //hechicero
                     heroe = new Heroe(
-                            nombre,
-                            70,
-                            1,
-                            20,
-                            50,
-                            null,
-                            null
-                        );
+                        nombre,
+                        70,
+                        1,
+                        20,
+                        50,
+                        null,
+                        null
+                    );
 
                     Console.WriteLine($"\nSe ha creado un hechicero con el nombre de {nombre}\n");
                     break;
 
                 case 3: //tanque
                     heroe = new Heroe(
-                            nombre,
-                            100,
-                            1,
-                            25,
-                            45,
-                            null,
-                            null
-                        );
+                        nombre,
+                        100,
+                        1,
+                        25,
+                        45,
+                        null,
+                        null
+                    );
 
                     Console.WriteLine($"\nSe ha creado un tanque con el nombre de {nombre}\n");
                     break;
 
                 default:
                     heroe = new Heroe(
-                            nombre,
-                            80,
-                            1,
-                            35,
-                            35,
-                            null,
-                            null
-                        );
+                        nombre,
+                        80,
+                        1,
+                        35,
+                        35,
+                        null,
+                        null
+                    );
                     Console.WriteLine($"\nSe ha creado un luchador con el nombre de {nombre}\n");
-                break;
+                    break;
             }
 
 
@@ -225,8 +225,24 @@ namespace Ejercicio4.Personajes
         }
 
 
+        public static double BajarVida(double vida, double damage)
+        {
+            if (damage < 0)
+            {
+                damage *= -1;
+            }
 
+            vida -= damage;
+
+            return vida;
+        }
+        
         public int PuntosMejora { get => puntosMejora; set => puntosMejora = value; }
         public Inventario Inventario { get => inventario; protected set => inventario = value; }
+        
     }
+    
+    
+    
+    
 }
